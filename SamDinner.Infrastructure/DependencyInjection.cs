@@ -5,7 +5,6 @@ using SamDinner.Infrastructure.Authentication;
 using SamDinner.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 
-
 namespace SamDinner.Infrastructure;
 
 public static class DependencyInjection

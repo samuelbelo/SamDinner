@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {}
+    "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Application\\SamDinner.Application.csproj": {
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {
+    "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
         "projectName": "SamDinner.Infrastructure",
-        "projectPath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",

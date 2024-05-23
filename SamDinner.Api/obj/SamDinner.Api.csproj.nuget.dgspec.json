@@ -35,8 +35,8 @@
               "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Contracts\\SamDinner.Contracts.csproj": {
                 "projectPath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Contracts\\SamDinner.Contracts.csproj"
               },
-              "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj"
+              "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj"
               }
             }
           }
@@ -271,14 +271,14 @@
         }
       }
     },
-    "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {
+    "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
         "projectName": "SamDinner.Infrastructure",
-        "projectPath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
