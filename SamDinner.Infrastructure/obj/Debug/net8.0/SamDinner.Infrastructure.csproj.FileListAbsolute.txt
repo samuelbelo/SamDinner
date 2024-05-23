@@ -15,3 +15,4 @@ C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDin
 C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Domain.pdb
 C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinne.0B0AC26B.Up2Date
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.sourcelink.json

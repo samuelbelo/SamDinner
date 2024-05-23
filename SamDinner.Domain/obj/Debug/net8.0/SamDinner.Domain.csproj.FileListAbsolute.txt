@@ -9,3 +9,4 @@ C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Doma
 C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\refint\SamDinner.Domain.dll
 C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.pdb
 C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\ref\SamDinner.Domain.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.sourcelink.json

@@ -34,3 +34,9 @@ C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\SamDinner.Applica
 C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\SamDinner.Infrastructure.pdb
 C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\SamDinner.Domain.pdb
 C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Api\obj\Debug\net8.0\SamDinner.Api.sourcelink.json

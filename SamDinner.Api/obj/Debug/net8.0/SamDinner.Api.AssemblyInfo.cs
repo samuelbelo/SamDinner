@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d7729ea6-7538-4618-b1ee-7645bba3ccca")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamDinner.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+701c48d3b08848849ec0f05dc513cb2991173542")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamDinner.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamDinner.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
