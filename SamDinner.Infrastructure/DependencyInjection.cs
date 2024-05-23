@@ -4,6 +4,8 @@ using SamDinner.Application.Common.Interfaces.Services;
 using SamDinner.Infrastructure.Authentication;
 using SamDinner.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
+using SamDinner.Application.Common.Interfaces.Persistence;
+using SamDinner.Infrastructure.Persistence;
 
 namespace SamDinner.Infrastructure;
 
@@ -18,6 +20,8 @@ public static class DependencyInjection
         
         services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
         services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+
+        services.AddScoped<IUserRepository, UserRepository>();
         return services;
     }
 }

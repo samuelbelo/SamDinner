@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamDinner.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcfc7d17cb9fce5eaa38eb9516ec5a8887db77ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a39ad263f2c79c64a692696043df3efba358bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamDinner.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamDinner.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
