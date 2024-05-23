@@ -1,0 +1,17 @@
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Infrastructure.deps.json
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Infrastructure.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Infrastructure.pdb
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.AssemblyInfo.cs
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\refint\SamDinner.Infrastructure.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.pdb
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\ref\SamDinner.Infrastructure.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Application.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Domain.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Application.pdb
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\bin\Debug\net8.0\SamDinner.Domain.pdb
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Samuel\repos\SamDinner\SamDinner.Infrastructure\obj\Debug\net8.0\SamDinne.0B0AC26B.Up2Date

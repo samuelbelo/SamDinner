@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "63ZUPuMAN+M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel\\repos\\SamDinner\\SamDinner.Infrastructure\\SamDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

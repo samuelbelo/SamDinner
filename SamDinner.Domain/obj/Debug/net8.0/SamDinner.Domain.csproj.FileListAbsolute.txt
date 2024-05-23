@@ -1,0 +1,11 @@
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\bin\Debug\net8.0\SamDinner.Domain.deps.json
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\bin\Debug\net8.0\SamDinner.Domain.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\bin\Debug\net8.0\SamDinner.Domain.pdb
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.AssemblyInfo.cs
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\refint\SamDinner.Domain.dll
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\SamDinner.Domain.pdb
+C:\Users\Samuel\repos\SamDinner\SamDinner.Domain\obj\Debug\net8.0\ref\SamDinner.Domain.dll
