@@ -1,3 +1,4 @@
+using SamDinner.Application.Common.Errors;
 using SamDinner.Application.Common.Interfaces.Authentication;
 using SamDinner.Application.Common.Interfaces.Persistence;
 using SamDinner.Domain.Entities;
@@ -23,7 +24,7 @@ public class AuthenticationService : IAuthenticationService
         //1. validate the user doesn't exist
         if(_userRepository.GetUserByEmail(email) is not null)
         {
-            throw new Exception("User already exists");
+            throw new DuplicateEmailException();
         }
 
         //2. create user (generate unique ID) and persist to database
@@ -51,11 +52,11 @@ public class AuthenticationService : IAuthenticationService
     {
         //1. validate the user exists
         if(_userRepository.GetUserByEmail(email) is not User user){
-            throw new Exception("User does not exist");
+            throw new UserNotExistentException();
         }
         //2. validate the password
         if(user.Password != password){
-            throw new Exception("Invalid password");
+            throw new InvalidPasswordException();
         }
 
         //3. create jwt token

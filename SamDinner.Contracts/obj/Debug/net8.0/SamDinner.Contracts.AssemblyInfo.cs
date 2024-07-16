@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamDinner.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a39ad263f2c79c64a692696043df3efba358bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1dc41f5ad137fe6b65d3f4d13a3db63309ce697")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamDinner.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamDinner.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
