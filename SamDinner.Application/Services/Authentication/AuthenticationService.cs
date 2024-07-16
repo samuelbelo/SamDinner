@@ -1,3 +1,4 @@
+using OneOf;
 using SamDinner.Application.Common.Errors;
 using SamDinner.Application.Common.Interfaces.Authentication;
 using SamDinner.Application.Common.Interfaces.Persistence;
@@ -19,7 +20,7 @@ public class AuthenticationService : IAuthenticationService
         _userRepository = userRepository;
     }
 
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
+    public OneOf<AuthenticationResult, DuplicateEmailException> Register(string firstName, string lastName, string email, string password)
     {
         //1. validate the user doesn't exist
         if(_userRepository.GetUserByEmail(email) is not null)

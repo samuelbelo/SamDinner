@@ -1,4 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using OneOf;
+using OneOf.Types;
+using SamDinner.Application.Common.Errors;
 using SamDinner.Application.Services.Authentication;
 using SamDinner.Contracts.Authentication;
 
@@ -19,14 +22,13 @@ public class AuthenticationController : ControllerBase
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
-        var result = _authenticationService.Register(request.FirstName, request.LastName, request.Email, request.Password);
-        var response = new AuthenticationResponse(
-            result.User.Id,
-            result.User.FirstName,
-            result.User.LastName,
-            result.User.Email,
-            result.Token);
-        return Ok(response);
+        OneOf<AuthenticationResult, DuplicateEmailException> registerResult = _authenticationService.Register(request.FirstName, request.LastName, request.Email, request.Password);
+
+        return registerResult.Match(
+            authResult => Ok(MapAuthResult(authResult)),
+            duplicateEmailException => Problem(statusCode: StatusCodes.Status409Conflict, title: "Email already exists")
+        );
+
     }
 
     [HttpPost("login")]
@@ -42,4 +44,13 @@ public class AuthenticationController : ControllerBase
         return Ok(response);
     }
 
+    private static AuthenticationResponse MapAuthResult(AuthenticationResult authResult)
+    {
+        return new AuthenticationResponse(
+            authResult.User.Id,
+            authResult.User.FirstName,
+            authResult.User.LastName,
+            authResult.User.Email,
+            authResult.Token);
+    }
 }
